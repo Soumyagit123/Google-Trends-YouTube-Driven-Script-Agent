@@ -1,0 +1,39 @@
+{
+  "trend": "jahmai jones",
+  "confidence_score": 1.0,
+  "youtube_references": [
+    {
+      "title": "Jahmai Jones clubs the 4th home run of the game for Team Korea! 🇰🇷 World Baseball Classic Highlights",
+      "description": "Jahmai Jones joins the action with Team Korea's 4th homer of the game vs. Team Czechia on March 5, 2026 during 2026 World ...",
+      "channel": "MLB"
+    },
+    {
+      "title": "Jahmai Jones home run versus Czech Republic 3/5/26￼",
+      "description": "",
+      "channel": "Baseball homeruns"
+    },
+    {
+      "title": "Jahmai Jones&#39; 7th home run of the 2025 season",
+      "description": "This channel is in no way associated with MLB, MiLB, or any other entities.",
+      "channel": "Christopher Field"
+    },
+    {
+      "title": "Jahmai Jones&#39; 2nd home run of the 2025 season",
+      "description": "This channel is in no way associated with MLB, MiLB, or any other entities.",
+      "channel": "Christopher Field"
+    },
+    {
+      "title": "Jahmai Jones 2025 Highlights! (Spring Training)",
+      "description": "This channel is part of the Baseball is Everything Network. We currently operate multiple YouTube channels, and sports related ...",
+      "channel": "The Hub for Baseball Highlights"
+    }
+  ],
+  "generated_script": {
+    "hook": "From lighting up the 2026 World Baseball Classic to consistently going yard, Jahmai Jones is making serious noise in baseball.",
+    "intro": "Jahmai Jones is rapidly becoming a name every baseball fan needs to know. With standout performances internationally and a strong 2025 season, he's capturing headlines and highlight reels.",
+    "body": "Jones truly grabbed international attention by clubbing a home run for Team Korea against Czechia in the 2026 World Baseball Classic, a moment captured by official MLB highlights. But his impact isn't limited to global stages; the 2025 season saw him consistently sending balls over the fence, logging at least seven home runs. Even his 2025 Spring Training highlights were making rounds, showcasing his power early on. From official channels to dedicated fan highlight creators, the buzz around Jones's powerful bat is undeniable.",
+    "outro": "Do you think Jahmai Jones is poised for a breakout season? Let us know your thoughts in the comments and subscribe for more baseball trend breakdowns!"
+  },
+  "prompt_strategy": "few_shot",
+  "generated_at": "2026-03-07T11:32:56.859305+00:00"
+}

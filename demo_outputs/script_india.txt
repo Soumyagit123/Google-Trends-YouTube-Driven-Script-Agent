@@ -1,0 +1,39 @@
+{
+  "trend": "dubai airport news",
+  "confidence_score": 1.0,
+  "youtube_references": [
+    {
+      "title": "Dubai Airport News: Iran Drone Strike Near Dubai Airport Triggers Chaos, Flights Forced To Shut",
+      "description": "Reports suggest a suspected Iranian drone strike hit a target near Dubai International Airport, one of the world's busiest aviation ...",
+      "channel": "NewsX Live"
+    },
+    {
+      "title": "Dubai Airport Suspends All Flights After Iranian Strike",
+      "description": "For more videos subscribe to our channel: https://www.youtube.com/@NDTVProfitIndia Visit NDTV Profit for more news: ...",
+      "channel": "NDTV Profit"
+    },
+    {
+      "title": "BREAKING: Emirates Suspends All Flights Operating From Dubai Airport Until Further Notice | News18",
+      "description": "Dubai-based carrier Emirates has announced the suspension of all flights operating to and from Dubai International Airport until ...",
+      "channel": "CNN-News18"
+    },
+    {
+      "title": "BREAKING: Explosion Over Dubai Airport, Emirates Suspends All Flights Amid Iranian Drone Attack",
+      "description": "Panic gripped the world's busiest aviation hub today as a loud explosion was heard directly above Dubai International Airport ...",
+      "channel": "Times Now World"
+    },
+    {
+      "title": "Dubai Airport News | Dubai Flights Suspended As Emirates Halts Operations Until Further Notice",
+      "description": "Emirates has suspended all flights to and from Dubai until further notice, urging passengers not to go to the airport. The airline ...",
+      "channel": "NDTV"
+    }
+  ],
+  "generated_script": {
+    "hook": "An explosion, a suspected drone strike, and then â€” silence. The world's busiest international airport, Dubai, was suddenly shut down.",
+    "intro": "Recent events at Dubai International Airport sent shockwaves globally, as reports emerged of a suspected Iranian drone strike near its vicinity. This unprecedented incident triggered immediate chaos and forced the suspension of all flights.",
+    "body": "Multiple news outlets, including Times Now World and NewsX Live, reported a loud explosion heard directly above or near Dubai International Airport. This led to immediate chaos, forcing one of the world's busiest aviation hubs to suspend all operations. Major carriers like Emirates swiftly announced the suspension of all flights to and from Dubai International Airport until further notice, urging passengers to avoid the airport entirely. The incident was widely covered by channels such as NDTV Profit and CNN-News18, detailing the abrupt halt to global travel and the unfolding crisis. This event significantly impacted international travel and highlighted rising geopolitical tensions.",
+    "outro": "What are your thoughts on the impact of this disruption on global travel and security? Share your perspective below and subscribe for more breaking news analyses."
+  },
+  "prompt_strategy": "few_shot",
+  "generated_at": "2026-03-07T11:32:47.585707+00:00"
+}

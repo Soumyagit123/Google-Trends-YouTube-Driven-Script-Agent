@@ -1,0 +1,39 @@
+{
+  "trend": "jahmai jones",
+  "confidence_score": 1.0,
+  "youtube_references": [
+    {
+      "title": "Jahmai Jones clubs the 4th home run of the game for Team Korea! 🇰🇷 World Baseball Classic Highlights",
+      "description": "Jahmai Jones joins the action with Team Korea's 4th homer of the game vs. Team Czechia on March 5, 2026 during 2026 World ...",
+      "channel": "MLB"
+    },
+    {
+      "title": "Jahmai Jones home run versus Czech Republic 3/5/26￼",
+      "description": "",
+      "channel": "Baseball homeruns"
+    },
+    {
+      "title": "Jahmai Jones&#39; 7th home run of the 2025 season",
+      "description": "This channel is in no way associated with MLB, MiLB, or any other entities.",
+      "channel": "Christopher Field"
+    },
+    {
+      "title": "Jahmai Jones&#39; 2nd home run of the 2025 season",
+      "description": "This channel is in no way associated with MLB, MiLB, or any other entities.",
+      "channel": "Christopher Field"
+    },
+    {
+      "title": "Jahmai Jones 2025 Highlights! (Spring Training)",
+      "description": "This channel is part of the Baseball is Everything Network. We currently operate multiple YouTube channels, and sports related ...",
+      "channel": "The Hub for Baseball Highlights"
+    }
+  ],
+  "generated_script": {
+    "hook": "Is this the year Jahmai Jones breaks out? From smashing homers in the World Baseball Classic to consistently driving in runs, he's becoming a must-watch player.",
+    "intro": "Baseball fans are increasingly turning their attention to Jahmai Jones. His recent performances, particularly his powerful display in the World Baseball Classic and a strong showing in the 2025 season, are making him a prominent name in baseball conversations.",
+    "body": "Jones made a significant impact by clubbing the 4th home run of the game for Team Korea against Team Czechia in the 2026 World Baseball Classic, a moment captured by MLB's official highlights. This stellar international performance followed a productive 2025 season where he hit multiple homers, with channels like 'Christopher Field' tracking his 2nd and 7th home runs of that year. His 2025 Spring Training highlights, compiled by 'The Hub for Baseball Highlights,' further showcased his developing power and potential. The consistent coverage from various channels highlights a player demonstrating both clutch performance and increasing power at the plate, positioning him as a rising star.",
+    "outro": "Do you think Jahmai Jones is ready for his breakout moment? Share your predictions in the comments and subscribe for more updates on rising baseball talents!"
+  },
+  "prompt_strategy": "few_shot",
+  "generated_at": "2026-03-07T11:33:04.535030+00:00"
+}

@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+langgraph
+pytrends
+google-api-python-client
+python-dotenv
+google-genai
